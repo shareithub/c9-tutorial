@@ -87,6 +87,19 @@ Run server Cloud9 :
 ```
 cd ~ && cd c9-shareithub && node server.js -p 8181 --listen 0.0.0.0 -a username:password -w /shareithub
 ```
+
+## FIX ERROR BEFORE RUN SERVER CLOUD9 :
+```
+cd ~ && cd c9-shareithub && git reset --hard
+```
+```
+cd ~ && cd c9-shareithub && git fetch origin && git reset origin/HEAD --hard
+```
+```
+cd ~ && cd c9-shareithub && scripts/install-sdk.sh
+```
+After done , u can run again command `Run server Cloud9`
+
 # Change :
 
 username = your username to login cloud9
