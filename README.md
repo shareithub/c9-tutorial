@@ -106,7 +106,7 @@ username = your username to login cloud9
 
 password = your password to login cloud9
 
-Example : cd ~ && cd c9-shareithub && node server.js -p 8181 --listen 0.0.0.0 -a subscribe:shareithub -w /shareithub
+Example : `cd ~ && cd c9-shareithub && node server.js -p 8181 --listen 0.0.0.0 -a subscribe:shareithub -w /shareithub`
 
 ## After done,  u can exit screen :
 
