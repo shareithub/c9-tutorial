@@ -4,6 +4,15 @@
 - Ubuntu 22.04
 
 # Following this step ! :
+
+Add ppa ondrej/php :
+```
+sudo add-apt-repository ppa:ondrej/php -y
+```
+Add universe repository :
+```
+sudo apt-add-repository universe -y
+```
 Install git :
 ```
 sudo apt install git -y
@@ -50,6 +59,14 @@ Install Php7.2 :
 ```
 sudo apt -y install php7.2 libapache2-mod-php7.2 php7.2-common
 ```
+Install python2 :
+```
+sudo apt install python2 -y
+```
+Install python2-minimal :
+```
+sudo apt install python2-minimal -y
+```
 Update & upgrade :
 ```
 sudo DEBIAN_FRONTEND=noninteractive apt update -y && sudo DEBIAN_FRONTEND=noninteractive apt upgrade -yq
@@ -78,7 +95,7 @@ password = your password to login cloud9
 
 Example : cd ~ && cd c9-shareithub && node server.js -p 8181 --listen 0.0.0.0 -a subscribe:shareithub -w /shareithub
 
-# # After done,  u can exit screen :
+## After done,  u can exit screen :
 
 ` Type CTRL+A+D ` to exit screen
 
