@@ -97,7 +97,7 @@ Example : cd ~ && cd c9-shareithub && node server.js -p 8181 --listen 0.0.0.0 -a
 
 ## After done,  u can exit screen :
 
-` Type CTRL+A+D ` to exit screen
+press button in keyboard `CTRL+A+D ` to exit screen
 
 Go to browser ( recommended use ignitco mode ) and open cloud9 `http://yourIPvps:8181`
 
