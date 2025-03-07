@@ -8,6 +8,10 @@
 - Ubuntu 20.04
 - Ubuntu 22.04
 
+## Tutorial video :
+
+https://youtu.be/tZ5GPNhkQQ0
+
 # Following this step ! :
 
 Add ppa ondrej/php :
