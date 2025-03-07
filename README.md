@@ -1,3 +1,8 @@
+# Join us :
+[TELEGRAM : SHARE IT HUB](https://t.me/SHAREITHUB_COM)
+
+[YOUTUBE : SHARE IT HUB](https://www.youtube.com/channel/UCUvH2S-T6T_hc7DjxhVd28A)
+
 # TUTORIAL INSTALL CLOUD9 IN VPS 
 ## Support : 
 - Ubuntu 20.04
